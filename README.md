@@ -19,7 +19,7 @@ main.py # Kode untuk mengeksekusi Automated HTTP Scanner
 scanner/ # Berisi kode utama untuk menjalankan program
 tests/ # Berisi kode untuk testing
 
-Author
+AUTHOR
 Reylucha Biel
 
 
