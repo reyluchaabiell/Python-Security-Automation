@@ -1,6 +1,6 @@
 # Automated HTTP Scanner 🔍
 
-Project ini adalah tool Python sederhana untuk memindai daftar URL yang mencurigakan dan menyimpan hasil status HTTP ke file CSV.
+Project ini adalah tool Python sederhana untuk memindai daftar URL dan menyimpan hasil status HTTP ke file CSV.
 
 ## 🚀 Cara Pakai
 1. Install library:
